@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Jump In" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Jump In" prefix_auto="1" extension_auto="1" />
+				<Option object_output="bin/Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="Jump In" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="GUI.cpp" />
+		<Unit filename="GUI.h" />
+		<Unit filename="alege_nivel.cpp" />
+		<Unit filename="alege_nivel.h" />
+		<Unit filename="all_tests.cpp" />
+		<Unit filename="all_tests.h" />
+		<Unit filename="aux_joaca_nivel.cpp" />
+		<Unit filename="aux_joaca_nivel.h" />
+		<Unit filename="aux_meniu_principal.cpp" />
+		<Unit filename="aux_meniu_principal.h" />
+		<Unit filename="butoane_60.out" />
+		<Unit filename="casual_mode.cpp" />
+		<Unit filename="casual_mode.h" />
+		<Unit filename="casute_libere.cpp" />
+		<Unit filename="casute_libere.h" />
+		<Unit filename="choose_mode.cpp" />
+		<Unit filename="choose_mode.h" />
+		<Unit filename="ciuperca.cpp" />
+		<Unit filename="ciuperca.h" />
+		<Unit filename="consola.cpp" />
+		<Unit filename="consola.h" />
+		<Unit filename="controller_meniu_principal.cpp" />
+		<Unit filename="controller_meniu_principal.h" />
+		<Unit filename="exit_game.cpp" />
+		<Unit filename="exit_game.h" />
+		<Unit filename="fisiere_text.cpp" />
+		<Unit filename="fisiere_text.h" />
+		<Unit filename="game_over_conditions.cpp" />
+		<Unit filename="game_over_conditions.h" />
+		<Unit filename="groapa.cpp" />
+		<Unit filename="groapa.h" />
+		<Unit filename="gui_meniu_principal.cpp" />
+		<Unit filename="gui_meniu_principal.h" />
+		<Unit filename="gui_tabla.cpp" />
+		<Unit filename="gui_tabla.h" />
+		<Unit filename="iepure.cpp" />
+		<Unit filename="iepure.h" />
+		<Unit filename="instructiuni.cpp" />
+		<Unit filename="instructiuni.h" />
+		<Unit filename="joaca_nivel.cpp" />
+		<Unit filename="joaca_nivel.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="meniu_mod_de_joc.cpp" />
+		<Unit filename="meniu_mod_de_joc.h" />
+		<Unit filename="meniu_principal.cpp" />
+		<Unit filename="meniu_principal.h" />
+		<Unit filename="nivel_1.in" />
+		<Unit filename="solver.cpp" />
+		<Unit filename="solver.h" />
+		<Unit filename="survival_mode.cpp" />
+		<Unit filename="survival_mode.h" />
+		<Unit filename="tabla_de_joc.cpp" />
+		<Unit filename="tabla_de_joc.h" />
+		<Unit filename="tabla_goala.cpp" />
+		<Unit filename="tabla_goala.h" />
+		<Unit filename="test.in" />
+		<Unit filename="test_iepure.cpp" />
+		<Unit filename="test_iepure.h" />
+		<Unit filename="test_vulpe.cpp" />
+		<Unit filename="test_vulpe.h" />
+		<Unit filename="vulpe.cpp" />
+		<Unit filename="vulpe.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,34 @@
+Proiect: joc Jump In.
+Limbaj de programare: c++.
+Mediu de dezvoltare: Code::Blocks.
+Paradigma de programare: imperativa, procedurala.
+Abordare: bottom-up.
+Proces de dezvoltare: dezvoltare bazata pe teste.
+
+Activitate
+
+Ziua 1, 07.12.2020:
+	-intelegerea criteriilor pe care trebuie sa le indeplineasca aplicatia,
+	-analiza proiectului si stabilirea modului de lucru,
+	-adunarea informatiilor necesare pentru a incepe implementarea,
+	-impartirea sarcinilor.
+
+Ziua 2, 08.12.2020:
+	-identificarea elementelor de baza ale aplicatiei,
+	-definirea prototipurilor necesare reprezentarii elementelor de baza si documentarea acestora 
+	 cu specificatii(descriere concisa, date de intrare, date de iesire),
+	-gasirea unor cazuri speciale pentru fiecare dintre proceduri si scrierea unor functii de test,
+	-implementarea procedurilor, 
+	-rularea programului si implicit testarea.
+
+Ziua 3, 09.12.2020:
+	-- ,, --
+
+	
+	
+
+
+
+
+
+

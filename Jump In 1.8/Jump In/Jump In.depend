@@ -1,0 +1,775 @@
+# depslib dependency file v1.0
+1610492283 source:c:\users\horia\onedrive\desktop\proiect\jump in\alege_nivel.cpp
+	"graphics.h"
+	"cstdlib"
+	"iostream"
+	"cstring"
+	"choose_mode.h"
+
+1610485135 c:\users\horia\onedrive\desktop\proiect\jump in\choose_mode.h
+
+1607634262 source:c:\users\horia\onedrive\desktop\proiect\jump in\all_tests.cpp
+	"test_iepure.h"
+	"test_vulpe.h"
+
+1607464336 c:\users\horia\onedrive\desktop\proiect\jump in\test_iepure.h
+
+1607634262 c:\users\horia\onedrive\desktop\proiect\jump in\test_vulpe.h
+
+1610503099 source:c:\users\horia\onedrive\desktop\proiect\jump in\aux_joaca_nivel.cpp
+	"vector"
+	"graphics.h"
+
+1609720859 source:c:\users\horia\onedrive\desktop\proiect\jump in\aux_meniu_principal.cpp
+	"graphics.h"
+
+1610304006 source:c:\users\horia\onedrive\desktop\proiect\jump in\casual_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+
+1607640587 c:\users\horia\onedrive\desktop\proiect\jump in\tabla_de_joc.h
+
+1607377414 c:\users\horia\onedrive\desktop\proiect\jump in\tabla_goala.h
+
+1610192349 c:\users\horia\onedrive\desktop\proiect\jump in\gui_tabla.h
+
+1607638158 c:\users\horia\onedrive\desktop\proiect\jump in\game_over_conditions.h
+
+1607640096 c:\users\horia\onedrive\desktop\proiect\jump in\iepure.h
+
+1607631908 c:\users\horia\onedrive\desktop\proiect\jump in\vulpe.h
+	"vector"
+
+1607373985 c:\users\horia\onedrive\desktop\proiect\jump in\ciuperca.h
+
+1607374312 c:\users\horia\onedrive\desktop\proiect\jump in\groapa.h
+
+1607374312 c:\users\horia\onedrive\desktop\proiect\jump in\casute_libere.h
+
+1609720234 c:\users\horia\onedrive\desktop\proiect\jump in\exit_game.h
+
+1610481611 c:\users\horia\onedrive\desktop\proiect\jump in\aux_joaca_nivel.h
+
+1607374312 source:c:\users\horia\onedrive\desktop\proiect\jump in\casute_libere.cpp
+
+1610552021 source:c:\users\horia\onedrive\desktop\proiect\jump in\choose_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+	"solver.h"
+
+1610506067 c:\users\horia\onedrive\desktop\proiect\jump in\solver.h
+
+1607961656 source:c:\users\horia\onedrive\desktop\proiect\jump in\ciuperca.cpp
+
+1610567158 source:c:\users\horia\onedrive\desktop\proiect\jump in\consola.cpp
+	"iostream"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"casute_libere.h"
+	"groapa.h"
+	"iepure.h"
+	"ciuperca.h"
+	"vulpe.h"
+	"assert.h"
+	"all_tests.h"
+	"time.h"
+	"cstdlib"
+	"utility"
+	"windows.h"
+	"game_over_conditions.h"
+	"GUI.h"
+	"fstream"
+
+1607459647 c:\users\horia\onedrive\desktop\proiect\jump in\all_tests.h
+
+1610567043 c:\users\horia\onedrive\desktop\proiect\jump in\gui.h
+
+1609727953 source:c:\users\horia\onedrive\desktop\proiect\jump in\controller_meniu_principal.cpp
+	"graphics.h"
+	"instructiuni.h"
+	"exit_game.h"
+	"meniu_mod_de_joc.h"
+
+1609720482 c:\users\horia\onedrive\desktop\proiect\jump in\instructiuni.h
+
+1609727422 c:\users\horia\onedrive\desktop\proiect\jump in\meniu_mod_de_joc.h
+
+1609720282 source:c:\users\horia\onedrive\desktop\proiect\jump in\exit_game.cpp
+	"cstdlib"
+
+1610208244 source:c:\users\horia\onedrive\desktop\proiect\jump in\fisiere_text.cpp
+	"fstream"
+
+1607961656 source:c:\users\horia\onedrive\desktop\proiect\jump in\game_over_conditions.cpp
+	"iepure.h"
+	"groapa.h"
+
+1607961656 source:c:\users\horia\onedrive\desktop\proiect\jump in\groapa.cpp
+
+1610567043 source:c:\users\horia\onedrive\desktop\proiect\jump in\gui.cpp
+	"graphics.h"
+	"winbgim.h"
+	"iostream"
+	"string"
+	"windows.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"meniu_principal.h"
+	"instructiuni.h"
+	"exit_game.h"
+
+1609720956 c:\users\horia\onedrive\desktop\proiect\jump in\meniu_principal.h
+
+1609721016 source:c:\users\horia\onedrive\desktop\proiect\jump in\gui_meniu_principal.cpp
+	"graphics.h"
+
+1610193652 source:c:\users\horia\onedrive\desktop\proiect\jump in\gui_tabla.cpp
+	"iepure.h"
+	"vulpe.h"
+	"groapa.h"
+	"ciuperca.h"
+	"casute_libere.h"
+	"graphics.h"
+	"iostream"
+
+1607960656 source:c:\users\horia\onedrive\desktop\proiect\jump in\iepure.cpp
+
+1609721027 source:c:\users\horia\onedrive\desktop\proiect\jump in\instructiuni.cpp
+	"graphics.h"
+
+1610213324 source:c:\users\horia\onedrive\desktop\proiect\jump in\joaca_nivel.cpp
+
+1610567163 source:c:\users\horia\onedrive\desktop\proiect\jump in\main.cpp
+	"consola.h"
+
+1610567145 c:\users\horia\onedrive\desktop\proiect\jump in\consola.h
+
+1610213648 source:c:\users\horia\onedrive\desktop\proiect\jump in\meniu_mod_de_joc.cpp
+	"graphics.h"
+	"alege_nivel.h"
+	"casual_mode.h"
+	"survival_mode.h"
+
+1610492283 c:\users\horia\onedrive\desktop\proiect\jump in\alege_nivel.h
+
+1610485128 c:\users\horia\onedrive\desktop\proiect\jump in\casual_mode.h
+
+1610213172 c:\users\horia\onedrive\desktop\proiect\jump in\survival_mode.h
+
+1609721328 source:c:\users\horia\onedrive\desktop\proiect\jump in\meniu_principal.cpp
+	"graphics.h"
+	"aux_meniu_principal.h"
+	"controller_meniu_principal.h"
+	"gui_meniu_principal.h"
+
+1609721090 c:\users\horia\onedrive\desktop\proiect\jump in\aux_meniu_principal.h
+
+1609721221 c:\users\horia\onedrive\desktop\proiect\jump in\controller_meniu_principal.h
+
+1609720842 c:\users\horia\onedrive\desktop\proiect\jump in\gui_meniu_principal.h
+
+1610552199 source:c:\users\horia\onedrive\desktop\proiect\jump in\solver.cpp
+	"iostream"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"casute_libere.h"
+	"groapa.h"
+	"iepure.h"
+	"ciuperca.h"
+	"vulpe.h"
+	"assert.h"
+	"all_tests.h"
+	"time.h"
+	"cstdlib"
+	"utility"
+	"windows.h"
+	"game_over_conditions.h"
+	"GUI.h"
+	"vector"
+	"fstream"
+
+1610566906 source:c:\users\horia\onedrive\desktop\proiect\jump in\survival_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+	"thread"
+	"cstring"
+
+1607640758 source:c:\users\horia\onedrive\desktop\proiect\jump in\tabla_de_joc.cpp
+	"fstream"
+
+1607374312 source:c:\users\horia\onedrive\desktop\proiect\jump in\tabla_goala.cpp
+
+1607640868 source:c:\users\horia\onedrive\desktop\proiect\jump in\test_iepure.cpp
+	"iepure.h"
+	"tabla_goala.h"
+	"cassert"
+
+1607636302 source:c:\users\horia\onedrive\desktop\proiect\jump in\test_vulpe.cpp
+	"vulpe.h"
+	"tabla_de_joc.h"
+	"cassert"
+
+1607961656 source:c:\users\horia\onedrive\desktop\proiect\jump in\vulpe.cpp
+	"vector"
+
+1610492283 source:c:\users\mariuca\desktop\jump in 1.8\jump in\alege_nivel.cpp
+	"graphics.h"
+	"cstdlib"
+	"iostream"
+	"cstring"
+	"choose_mode.h"
+
+1610485135 c:\users\mariuca\desktop\jump in 1.8\jump in\choose_mode.h
+
+1607634262 source:c:\users\mariuca\desktop\jump in 1.8\jump in\all_tests.cpp
+	"test_iepure.h"
+	"test_vulpe.h"
+
+1607464336 c:\users\mariuca\desktop\jump in 1.8\jump in\test_iepure.h
+
+1607634262 c:\users\mariuca\desktop\jump in 1.8\jump in\test_vulpe.h
+
+1610503099 source:c:\users\mariuca\desktop\jump in 1.8\jump in\aux_joaca_nivel.cpp
+	"vector"
+	"graphics.h"
+
+1609720859 source:c:\users\mariuca\desktop\jump in 1.8\jump in\aux_meniu_principal.cpp
+	"graphics.h"
+
+1610304006 source:c:\users\mariuca\desktop\jump in 1.8\jump in\casual_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+
+1607640587 c:\users\mariuca\desktop\jump in 1.8\jump in\tabla_de_joc.h
+
+1607377414 c:\users\mariuca\desktop\jump in 1.8\jump in\tabla_goala.h
+
+1610192349 c:\users\mariuca\desktop\jump in 1.8\jump in\gui_tabla.h
+
+1607638158 c:\users\mariuca\desktop\jump in 1.8\jump in\game_over_conditions.h
+
+1607640096 c:\users\mariuca\desktop\jump in 1.8\jump in\iepure.h
+
+1607631908 c:\users\mariuca\desktop\jump in 1.8\jump in\vulpe.h
+	"vector"
+
+1607373985 c:\users\mariuca\desktop\jump in 1.8\jump in\ciuperca.h
+
+1607374312 c:\users\mariuca\desktop\jump in 1.8\jump in\groapa.h
+
+1607374312 c:\users\mariuca\desktop\jump in 1.8\jump in\casute_libere.h
+
+1609720234 c:\users\mariuca\desktop\jump in 1.8\jump in\exit_game.h
+
+1610481611 c:\users\mariuca\desktop\jump in 1.8\jump in\aux_joaca_nivel.h
+
+1607374312 source:c:\users\mariuca\desktop\jump in 1.8\jump in\casute_libere.cpp
+
+1610552021 source:c:\users\mariuca\desktop\jump in 1.8\jump in\choose_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+	"solver.h"
+
+1610506067 c:\users\mariuca\desktop\jump in 1.8\jump in\solver.h
+
+1607961656 source:c:\users\mariuca\desktop\jump in 1.8\jump in\ciuperca.cpp
+
+1610567158 source:c:\users\mariuca\desktop\jump in 1.8\jump in\consola.cpp
+	"iostream"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"casute_libere.h"
+	"groapa.h"
+	"iepure.h"
+	"ciuperca.h"
+	"vulpe.h"
+	"assert.h"
+	"all_tests.h"
+	"time.h"
+	"cstdlib"
+	"utility"
+	"windows.h"
+	"game_over_conditions.h"
+	"GUI.h"
+	"fstream"
+
+1607459647 c:\users\mariuca\desktop\jump in 1.8\jump in\all_tests.h
+
+1610567043 c:\users\mariuca\desktop\jump in 1.8\jump in\gui.h
+
+1609727953 source:c:\users\mariuca\desktop\jump in 1.8\jump in\controller_meniu_principal.cpp
+	"graphics.h"
+	"instructiuni.h"
+	"exit_game.h"
+	"meniu_mod_de_joc.h"
+
+1609720482 c:\users\mariuca\desktop\jump in 1.8\jump in\instructiuni.h
+
+1609727422 c:\users\mariuca\desktop\jump in 1.8\jump in\meniu_mod_de_joc.h
+
+1609720282 source:c:\users\mariuca\desktop\jump in 1.8\jump in\exit_game.cpp
+	"cstdlib"
+
+1610208244 source:c:\users\mariuca\desktop\jump in 1.8\jump in\fisiere_text.cpp
+	"fstream"
+
+1607961656 source:c:\users\mariuca\desktop\jump in 1.8\jump in\game_over_conditions.cpp
+	"iepure.h"
+	"groapa.h"
+
+1607961656 source:c:\users\mariuca\desktop\jump in 1.8\jump in\groapa.cpp
+
+1610567043 source:c:\users\mariuca\desktop\jump in 1.8\jump in\gui.cpp
+	"graphics.h"
+	"winbgim.h"
+	"iostream"
+	"string"
+	"windows.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"meniu_principal.h"
+	"instructiuni.h"
+	"exit_game.h"
+
+1609720956 c:\users\mariuca\desktop\jump in 1.8\jump in\meniu_principal.h
+
+1609721016 source:c:\users\mariuca\desktop\jump in 1.8\jump in\gui_meniu_principal.cpp
+	"graphics.h"
+
+1610193652 source:c:\users\mariuca\desktop\jump in 1.8\jump in\gui_tabla.cpp
+	"iepure.h"
+	"vulpe.h"
+	"groapa.h"
+	"ciuperca.h"
+	"casute_libere.h"
+	"graphics.h"
+	"iostream"
+
+1607960656 source:c:\users\mariuca\desktop\jump in 1.8\jump in\iepure.cpp
+
+1609721027 source:c:\users\mariuca\desktop\jump in 1.8\jump in\instructiuni.cpp
+	"graphics.h"
+
+1610213324 source:c:\users\mariuca\desktop\jump in 1.8\jump in\joaca_nivel.cpp
+
+1610567163 source:c:\users\mariuca\desktop\jump in 1.8\jump in\main.cpp
+	"consola.h"
+
+1610567145 c:\users\mariuca\desktop\jump in 1.8\jump in\consola.h
+
+1610213648 source:c:\users\mariuca\desktop\jump in 1.8\jump in\meniu_mod_de_joc.cpp
+	"graphics.h"
+	"alege_nivel.h"
+	"casual_mode.h"
+	"survival_mode.h"
+
+1610492283 c:\users\mariuca\desktop\jump in 1.8\jump in\alege_nivel.h
+
+1610485128 c:\users\mariuca\desktop\jump in 1.8\jump in\casual_mode.h
+
+1610213172 c:\users\mariuca\desktop\jump in 1.8\jump in\survival_mode.h
+
+1609721328 source:c:\users\mariuca\desktop\jump in 1.8\jump in\meniu_principal.cpp
+	"graphics.h"
+	"aux_meniu_principal.h"
+	"controller_meniu_principal.h"
+	"gui_meniu_principal.h"
+
+1609721090 c:\users\mariuca\desktop\jump in 1.8\jump in\aux_meniu_principal.h
+
+1609721221 c:\users\mariuca\desktop\jump in 1.8\jump in\controller_meniu_principal.h
+
+1609720842 c:\users\mariuca\desktop\jump in 1.8\jump in\gui_meniu_principal.h
+
+1610552199 source:c:\users\mariuca\desktop\jump in 1.8\jump in\solver.cpp
+	"iostream"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"casute_libere.h"
+	"groapa.h"
+	"iepure.h"
+	"ciuperca.h"
+	"vulpe.h"
+	"assert.h"
+	"all_tests.h"
+	"time.h"
+	"cstdlib"
+	"utility"
+	"windows.h"
+	"game_over_conditions.h"
+	"GUI.h"
+	"vector"
+	"fstream"
+
+1610566906 source:c:\users\mariuca\desktop\jump in 1.8\jump in\survival_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+	"thread"
+	"cstring"
+
+1607640758 source:c:\users\mariuca\desktop\jump in 1.8\jump in\tabla_de_joc.cpp
+	"fstream"
+
+1607374312 source:c:\users\mariuca\desktop\jump in 1.8\jump in\tabla_goala.cpp
+
+1607640868 source:c:\users\mariuca\desktop\jump in 1.8\jump in\test_iepure.cpp
+	"iepure.h"
+	"tabla_goala.h"
+	"cassert"
+
+1607636302 source:c:\users\mariuca\desktop\jump in 1.8\jump in\test_vulpe.cpp
+	"vulpe.h"
+	"tabla_de_joc.h"
+	"cassert"
+
+1607961656 source:c:\users\mariuca\desktop\jump in 1.8\jump in\vulpe.cpp
+	"vector"
+
+1610495883 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\alege_nivel.cpp
+	"graphics.h"
+	"cstdlib"
+	"iostream"
+	"cstring"
+	"choose_mode.h"
+
+1610488735 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\choose_mode.h
+
+1607637862 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\all_tests.cpp
+	"test_iepure.h"
+	"test_vulpe.h"
+
+1607467936 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\test_iepure.h
+
+1607637862 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\test_vulpe.h
+
+1610506699 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\aux_joaca_nivel.cpp
+	"vector"
+	"graphics.h"
+
+1609724459 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\aux_meniu_principal.cpp
+	"graphics.h"
+
+1610307606 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\casual_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+
+1607644187 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\tabla_de_joc.h
+
+1607381014 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\tabla_goala.h
+
+1610195949 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\gui_tabla.h
+
+1607641758 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\game_over_conditions.h
+
+1607643696 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\iepure.h
+
+1607635508 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\vulpe.h
+	"vector"
+
+1607377585 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\ciuperca.h
+
+1607377912 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\groapa.h
+
+1607377912 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\casute_libere.h
+
+1609723834 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\exit_game.h
+
+1610485211 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\aux_joaca_nivel.h
+
+1607377912 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\casute_libere.cpp
+
+1610555621 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\choose_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+	"solver.h"
+
+1610509667 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\solver.h
+
+1607965256 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\ciuperca.cpp
+
+1610570758 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\consola.cpp
+	"iostream"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"casute_libere.h"
+	"groapa.h"
+	"iepure.h"
+	"ciuperca.h"
+	"vulpe.h"
+	"assert.h"
+	"all_tests.h"
+	"time.h"
+	"cstdlib"
+	"utility"
+	"windows.h"
+	"game_over_conditions.h"
+	"GUI.h"
+	"fstream"
+
+1607463247 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\all_tests.h
+
+1610570643 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\gui.h
+
+1609731553 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\controller_meniu_principal.cpp
+	"graphics.h"
+	"instructiuni.h"
+	"exit_game.h"
+	"meniu_mod_de_joc.h"
+
+1609724082 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\instructiuni.h
+
+1609731022 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\meniu_mod_de_joc.h
+
+1609723882 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\exit_game.cpp
+	"cstdlib"
+
+1610211844 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\fisiere_text.cpp
+	"fstream"
+
+1607965256 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\game_over_conditions.cpp
+	"iepure.h"
+	"groapa.h"
+
+1607965256 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\groapa.cpp
+
+1610570643 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\gui.cpp
+	"graphics.h"
+	"winbgim.h"
+	"iostream"
+	"string"
+	"windows.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"meniu_principal.h"
+	"instructiuni.h"
+	"exit_game.h"
+
+1609724556 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\meniu_principal.h
+
+1609724616 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\gui_meniu_principal.cpp
+	"graphics.h"
+
+1610197252 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\gui_tabla.cpp
+	"iepure.h"
+	"vulpe.h"
+	"groapa.h"
+	"ciuperca.h"
+	"casute_libere.h"
+	"graphics.h"
+	"iostream"
+
+1607964256 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\iepure.cpp
+
+1609724627 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\instructiuni.cpp
+	"graphics.h"
+
+1610216924 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\joaca_nivel.cpp
+
+1610570763 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\main.cpp
+	"consola.h"
+
+1610570745 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\consola.h
+
+1610217248 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\meniu_mod_de_joc.cpp
+	"graphics.h"
+	"alege_nivel.h"
+	"casual_mode.h"
+	"survival_mode.h"
+
+1610495883 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\alege_nivel.h
+
+1610488728 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\casual_mode.h
+
+1610216772 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\survival_mode.h
+
+1609724928 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\meniu_principal.cpp
+	"graphics.h"
+	"aux_meniu_principal.h"
+	"controller_meniu_principal.h"
+	"gui_meniu_principal.h"
+
+1609724690 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\aux_meniu_principal.h
+
+1609724821 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\controller_meniu_principal.h
+
+1609724442 c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\gui_meniu_principal.h
+
+1610555799 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\solver.cpp
+	"iostream"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"casute_libere.h"
+	"groapa.h"
+	"iepure.h"
+	"ciuperca.h"
+	"vulpe.h"
+	"assert.h"
+	"all_tests.h"
+	"time.h"
+	"cstdlib"
+	"utility"
+	"windows.h"
+	"game_over_conditions.h"
+	"GUI.h"
+	"vector"
+	"fstream"
+
+1610570506 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\survival_mode.cpp
+	"graphics.h"
+	"tabla_de_joc.h"
+	"tabla_goala.h"
+	"gui_tabla.h"
+	"game_over_conditions.h"
+	"iostream"
+	"gui_tabla.h"
+	"iepure.h"
+	"vulpe.h"
+	"ciuperca.h"
+	"groapa.h"
+	"casute_libere.h"
+	"cstdlib"
+	"time.h"
+	"exit_game.h"
+	"aux_joaca_nivel.h"
+	"thread"
+	"cstring"
+
+1607644358 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\tabla_de_joc.cpp
+	"fstream"
+
+1607377912 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\tabla_goala.cpp
+
+1607644468 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\test_iepure.cpp
+	"iepure.h"
+	"tabla_goala.h"
+	"cassert"
+
+1607639902 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\test_vulpe.cpp
+	"vulpe.h"
+	"tabla_de_joc.h"
+	"cassert"
+
+1607965256 source:c:\users\mariuca\desktop\facultate\jump in 1.8\jump in\vulpe.cpp
+	"vector"
+
